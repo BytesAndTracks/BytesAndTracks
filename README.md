@@ -1,5 +1,6 @@
-### Linguagens e Ferramentas:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+## Olá! Eu sou o Rubens 👋
+
+Sou um desenvolvedor full stack júnior, focado em Python, machine learning, APIs da OpenAI, Azure, entre outras tecnologias. Apaixonado por compartilhar conhecimento e ajudar a construir projetos inovadores.
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/seuinstagram)](https://www.instagram.com/___rubensoliveira)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubensosantos/)](https://www.linkedin.com/in/seulinkedin/)
