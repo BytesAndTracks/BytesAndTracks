@@ -1,8 +1,5 @@
-# 👋 Olá, sou @BytesAndTracks
-
-- 👀 Estou interessado em análise de dados, desenvolvimento em Java, e tudo relacionado a tecnologia e automobilismo.
-- 🌱 Atualmente estou aprendendo mais sobre Java, Python, AWS, SQL e meios de pagamento como ISO20022.
-- 💞️ Estou procurando colaborar em projetos de análise de dados, desenvolvimento backend, e aplicações que integrem tecnologia e esportes.
-- 📫 Como entrar em contato comigo: [linkedin.com/in/rubensosantos/]
-- 😄 Pronomes: Ele/Dele
-- ⚡ Curiosidade: Sou apaixonado por Fórmula 1 e sempre busco formas de unir minha paixão por velocidade com minha carreira em tecnologia.
+### Linguagens e Ferramentas:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
