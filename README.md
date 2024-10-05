@@ -3,7 +3,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/___rubensoliveira)](https://www.instagram.com/___rubensoliveira)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubensosantos/)](https://www.linkedin.com/in/rubensosantos/)
 
-Sou desenvolvedor full stack júnior na **Tremed Materiais Médicos e Equipamentos Hospitalares**, focado em Python, machine learning, APIs da OpenAI, Azure e outras tecnologias de ponta. Apaixonado por desenvolver soluções inovadoras e compartilhar conhecimento na comunidade tech.
+Sou desenvolvedor de software júnior na **Tremed Materiais Médicos e Equipamentos Hospitalares**, focado em Python, machine learning, APIs da OpenAI, Azure e outras tecnologias de ponta. Apaixonado por desenvolver soluções inovadoras e compartilhar conhecimento na comunidade tech.
 
 ---
 
