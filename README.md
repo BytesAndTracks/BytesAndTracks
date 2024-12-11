@@ -18,7 +18,9 @@ Sou desenvolvedor de software júnior na Tremed Materiais Médicos e Equipamento
 ---
 
 ### 🔥 Dias de Contribuição
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BytesAndTracks&theme=dark)](https://github.com/denvercoder1/github-readme-streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=BytesAndTracks&theme=dark)](https://github.com/denvercoder1/github-readme-streak-stats)
+
+---
 
 🎯 Objetivos e Paixões
 💡 Explorar novas tecnologias para melhorar soluções existentes.
