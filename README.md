@@ -22,5 +22,4 @@ Sou desenvolvedor de software júnior na Tremed Materiais Médicos e Equipamento
 
 🎯 Objetivos e Paixões
 💡 Explorar novas tecnologias para melhorar soluções existentes.
-🌟 Ampliar meu conhecimento em Machine Learning e Engenharia de Dados.
 🤝 Compartilhar aprendizados e colaborar com projetos Open Source.
