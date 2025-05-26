@@ -1,27 +1,48 @@
-Olá, eu sou o Rubens <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## 👋 Olá, eu sou o Rubens!
 
+🎯 **Desenvolvedor de Software Júnior** em constante evolução.
 
-Sou desenvolvedor de software júnior na Tremed Materiais Médicos e Equipamentos Hospitalares, focado em Python, machine learning, APIs da OpenAI, Azure e outras tecnologias de ponta. Apaixonado por desenvolver soluções inovadoras e compartilhar conhecimento na comunidade tech.
+🚀 Especializando-se em **Java** e **Linux**, com foco em desenvolvimento backend, automação e soluções escaláveis.
 
-⚙️ Linguagens e Ferramentas
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </p>
-## 📈 Minhas Estatísticas do GitHub
+💻 Experiência sólida com **Python**, **Machine Learning**, APIs da **OpenAI** e tecnologias de ponta.
 
-### 🔝 Linguagens Mais Usadas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BytesAndTracks&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+🐧 Entusiasta de **Sistemas Linux** e apaixonado por arquitetura de software limpa e eficiente.
 
----
-
-### 📊 Estatísticas Gerais
-[![Rubens GitHub Stats](https://github-readme-stats.vercel.app/api?username=BytesAndTracks&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+🎯 Explorando novas tecnologias e colaborando com a comunidade **Open Source**.
 
 ---
 
-### 🔥 Dias de Contribuição
-[![GitHub Streak](https://streak-stats.demolab.com/?user=BytesAndTracks&theme=dark)](https://github.com/denvercoder1/github-readme-streak-stats)
+## 🛠️ **Tecnologias e Ferramentas:**
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 ---
 
-🎯 Objetivos e Paixões
-💡 Explorar novas tecnologias para melhorar soluções existentes.
-🤝 Compartilhar aprendizados e colaborar com projetos Open Source.
+## 📊 **Estatísticas do GitHub**
+
+![Rubens' GitHub Stats](https://github-readme-stats.vercel.app/api?username=BytesAndTracks&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BytesAndTracks&layout=compact&theme=radical)
+
+---
+
+## 📫 **Como me encontrar:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubensosantos/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:rubens8965@gmail.com)
+
+---
+
+## 💡 **Objetivos e Paixões**
+
+- Aprimorar minhas habilidades em **Java** e **Desenvolvimento Backend**.
+- Explorar o universo **Linux** para automação e administração de sistemas.
+- Contribuir com **projetos Open Source**.
+- Compartilhar conhecimento e aprender com a comunidade tech.
