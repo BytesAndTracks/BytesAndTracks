@@ -1,46 +1,29 @@
-## 👋 Olá, eu sou o Rubens!
+# Rubens Oliveira Santos
 
-🎯 **Desenvolvedor de Software Júnior** em constante evolução.
+*Desenvolvedor Backend Java em formação, com sólida experiência em análise de dados, bancos de dados e Cloud AWS.*
 
-🚀 Especializando-se em **Java** e **Linux**, com foco em desenvolvimento backend, automação e soluções escaláveis.
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rubensosantos/)
+[<img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">](mailto:rubens8965@gmail.com)
 
-💻 Experiência sólida com **Python**, **Machine Learning**, APIs da **OpenAI** e tecnologias de ponta.
+## Olá, eu sou o Rubens! 👋
 
-🐧 Entusiasta de **Sistemas Linux** e apaixonado por arquitetura de software limpa e eficiente.
+Atualmente cursando **Tecnologia da Informação**, estou em transição de carreira para me especializar como **Desenvolvedor Backend com foco no ecossistema Java**. Minha jornada até aqui me proporcionou uma base robusta em análise de dados, bancos de dados relacionais e NoSQL, e computação em nuvem com a **AWS**, competências que integro para construir soluções de software eficientes, escaláveis e orientadas a dados.
 
-🎯 Explorando novas tecnologias e colaborando com a comunidade **Open Source**.
+Sou apaixonado por resolver problemas complexos e acredito que a combinação do desenvolvimento de software com uma profunda compreensão dos dados é fundamental para criar aplicações de alto impacto. Estou sempre explorando novas tecnologias, contribuindo com a comunidade e buscando projetos desafiadores que me permitam crescer e aplicar meu conhecimento.
 
----
-
-## 🛠️ **Tecnologias e Ferramentas:**
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+### 🔹 Foco Atual:
+* Aprimorando minhas habilidades em **Java 17+** e **Spring Framework**.
+* Desenvolvendo APIs RESTful robustas e seguras.
+* Aplicando princípios de **SOLID** e **Clean Code** em projetos práticos.
+* Integrando aplicações Java com serviços **AWS** (EC2, S3, Lambda, DynamoDB).
 
 ---
 
-## 📊 **Estatísticas do GitHub**
+### 🛠️ Tecnologias e Ferramentas
 
-![Rubens' GitHub Stats](https://github-readme-stats.vercel.app/api?username=BytesAndTracks&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BytesAndTracks&layout=compact&theme=radical)
-
----
-
-## 📫 **Como me encontrar:**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubensosantos/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:rubens8965@gmail.com)
-
----
-
-## 💡 **Objetivos e Paixões**
-
-- Aprimorar minhas habilidades em **Java** e **Desenvolvimento Backend**.
-- Explorar o universo **Linux** para automação e administração de sistemas.
-- Contribuir com **projetos Open Source**.
-- Compartilhar conhecimento e aprender com a comunidade tech.
+| Java & Backend                               | Dados & Bancos de Dados                            | Cloud & Infraestrutura                      |
+| -------------------------------------------- | -------------------------------------------------- | ------------------------------------------- |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
+| ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
