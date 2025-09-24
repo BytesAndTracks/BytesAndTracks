@@ -90,7 +90,6 @@ Atualmente aprofundando meus conhecimentos em:
 ## 📫 Como me encontrar
 
 - LinkedIn: [Rubens Oliveira](https://www.linkedin.com/in/seu-perfil-linkedin/)
-- Email: seu.email@exemplo.com
 - GitHub: [@BytesAndTracks](https://github.com/BytesAndTracks)
 
 ---
