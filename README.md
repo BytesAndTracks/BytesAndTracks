@@ -33,7 +33,6 @@ Minha trajetória inclui o desenvolvimento de pipelines de dados automatizados c
 ### Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
 ![N8N](https://img.shields.io/badge/N8N-41B883?style=for-the-badge&logoColor=white)
 
 ## 🚀 Projetos Principais
