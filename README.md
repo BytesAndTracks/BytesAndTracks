@@ -162,18 +162,6 @@ rubens = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BytesAndTracks&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BytesAndTracks&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88)
-
-</div>
-
----
-
 <div align="center">
 
 **Open to international remote opportunities as AI Engineer, Backend Engineer or Solutions Architect**
